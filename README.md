@@ -1,0 +1,2 @@
+# LazyPanther
+For lazy animals
